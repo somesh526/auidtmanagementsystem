@@ -1,0 +1,38 @@
+.center{
+    padding-top: 2.5%;
+    text-align: center;
+}
+
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.tt {
+    border-top: none;
+    font-weight: 500;
+}
+
+table tr:first-child td:first-child {
+  border-top-left-radius: 15px;
+}
+  
+/* top-right border-radius */
+table tr:first-child td:last-child {
+  border-top-right-radius: 15px;
+}
+  
+/* bottom-left border-radius */
+table tr:last-child td:first-child {
+  border-bottom-left-radius: 15px;
+}
+  
+table tr:last-child td:last-child {
+  border-bottom-right-radius: 15px;
+}
+
+tr {
+    background: #effaf5;
+}

@@ -1,0 +1,17 @@
+ /* body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+  } */
+
+  .nav {
+    background-color: #1c400d;
+    
+  }
+
+  .nav-link, .navbar-brand {
+    color: #0267d3 !important;
+  }
+
+  .navbar-toggler-icon {
+     
+  }
