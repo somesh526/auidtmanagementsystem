@@ -1,6 +1,10 @@
 ## AuidtManagementSystem
 Web Application to automate the Audit Processing and provide organization to track and maintain records easily.
 
+<div align="center" width="500">
+ <img src="https://github.com/somesh526/auidtmanagementsystem/blob/main/AuditManagementPortal.gif" alt="application execution video!" width="900"/>
+ </div>
+
 ### Development
 > This Project is developed on **Microservices Architecture** where each service has its own functionality to automates the audit processing.
 > 
