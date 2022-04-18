@@ -23,4 +23,4 @@ Web Application to automate the Audit Processing and provide organization to tra
 >  * Implemented angular routes to navigate across the app.
 >  * Implemented auth guards to secure the app.
 >  
-> Followed all Coding Best Practices and Implemented **Swagger** for API Documentation.
+> Implemented **Swagger** for API Documentation.
